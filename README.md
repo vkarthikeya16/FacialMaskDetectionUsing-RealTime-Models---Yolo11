@@ -122,6 +122,8 @@ Users must comply with local privacy and data protection regulations.
 
 ---
 
+Gradio Link : https://huggingface.co/spaces/Karthikeya1610/FaceMaskDetectionYolo11
+
 ## 📄 License
 
 This project is intended for **academic and research use only**.
